@@ -1,0 +1,10 @@
+{
+  "description": "This platform offers a gamified environment for SENA learners to assess and monitor psychosocial risks, enhancing mental health awareness and support.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
